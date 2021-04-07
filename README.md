@@ -1,3 +1,7 @@
+![](https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg)
+
+
+
 ### Hi, I'am Joko Slamet 👋
 
 Active Project
