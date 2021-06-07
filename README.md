@@ -13,7 +13,6 @@
 
 [![onwisata](https://img.shields.io/badge/-📝%20onwisata-000?)]
 [![KBL Performing Arts](https://img.shields.io/badge/-📝%20KBL%20Performing%20Arts-000?)]
-[![Usaha Jaya Adiperkasa](https://img.shields.io/badge/-📝%20Usaha%20Jaya%20AdiPerkasa-000?)]
 
 ### Languages
 
