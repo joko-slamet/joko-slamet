@@ -12,7 +12,7 @@
 ### Active Projects
 
 [![onwisata](https://img.shields.io/badge/-📝%20onwisata-000?)]
-[![KBL Performing Arts](https://img.shields.io/badge/-📝%20KBL%20Performing%20Arts-000?)]
+[![Twitter Analysis Sentimen](https://img.shields.io/badge/-📝%20Twitter%20Analysis%20Sentimen-000?)]
 
 ### Languages
 
