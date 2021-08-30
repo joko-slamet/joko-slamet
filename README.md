@@ -9,11 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joko19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joko's GitHub Stats" />
 </a>
 
-### Active Projects
-
-[![onwisata](https://img.shields.io/badge/-📝%20onwisata-000?)]
-[![Twitter Analysis Sentimen](https://img.shields.io/badge/-📝%20Twitter%20Analysis%20Sentimen-000?)]
-
 ### Languages
 
 [![Joko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
