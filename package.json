@@ -2,7 +2,7 @@
   "name": "joko19",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joko19.github.io",
+  "homepage": "https://joko19.github.io/joko19",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
