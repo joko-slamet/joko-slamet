@@ -6,7 +6,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/joko-slamet/joko-slamet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joko19&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joko's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joko-slamet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joko's GitHub Stats" />
 </a>
 
 ### Languages
@@ -24,10 +24,10 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/joko19/joko19/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/joko-slamet/joko-slamet/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-[2]: https://github.com/joko19
+[2]: https://github.com/joko-slamet
 [3]: https://www.linkedin.com/in/joko-slamet/
 
 <!-- links to your social media accounts -->
