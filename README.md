@@ -5,13 +5,16 @@
 <h3>💻 Software Developer | 🛸 Indonesia</h3>
 
 ## &#x1f4c8; GitHub Stats
+<p align="center">
+<a href="https://github.com/joko-slamet">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joko-slamet&theme=dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+</p>
+<p align="center">
 <a href="https://github.com/joko-slamet/joko-slamet">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joko-slamet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joko's GitHub Stats" />
 </a>
-
-### Languages
-
-[![Joko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!-- links to social media icons -->
 
